@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(163, 123, 71);
+}
+
+#header {
+  color: rgb(78, 49, 10);
+  font-weight: bold;
+}
+
+#para {
+  color: rgb(78, 49, 10);
+  font-weight: bold;
+}
+
+form.form-example {
+  display: table;
+
+  padding: 5px;
+  padding-right: 100px;
+  border-radius: 10px;
+}
+
+label,
+input {
+  display: table-cell;
+  margin-bottom: 10px;
+  background-color: rgb(161, 92, 92);
+}
+
+label {
+  padding-right: 10px;
+}
+
+.text {
+  color: rgb(108, 163, 245);
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+}
